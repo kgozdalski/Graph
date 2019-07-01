@@ -1,0 +1,9 @@
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Kamil\Desktop\Grafy\GrafyWlasciwe\Grafy\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

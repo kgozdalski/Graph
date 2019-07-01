@@ -1,0 +1,10 @@
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\bin\Release\Project.exe.config
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\bin\Release\Project.exe
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\bin\Release\Project.pdb
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\Graph.csprojAssemblyReference.cache
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\WindowsFormsApp1.Form1.resources
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\Project.Properties.Resources.resources
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\Graph.csproj.GenerateResource.cache
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\Graph.csproj.CoreCompileInputs.cache
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\Project.exe
+F:\Nowy folder (2)\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Release\Project.pdb

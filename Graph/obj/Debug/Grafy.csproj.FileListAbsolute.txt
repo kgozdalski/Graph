@@ -1,0 +1,10 @@
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\Grafy.csprojAssemblyReference.cache
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\Grafy.csproj.GenerateResource.cache
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\Grafy.csproj.CoreCompileInputs.cache
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\bin\Debug\Projekt.exe.config
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\bin\Debug\Projekt.exe
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\bin\Debug\Projekt.pdb
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\Projekt.Properties.Resources.resources
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\Projekt.exe
+F:\Grafy\GrafyWlasciwe\Grafy\Grafy\obj\Debug\Projekt.pdb
